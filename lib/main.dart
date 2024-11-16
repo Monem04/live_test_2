@@ -32,7 +32,6 @@ class HomeScreen extends StatelessWidget {
               color: Colors.white,
             ),
             onPressed: () {
-              // Add functionality here
             },
           ),
         ],
@@ -40,7 +39,6 @@ class HomeScreen extends StatelessWidget {
       body: Center(
         child: GestureDetector(
           onTap: () {
-            // Add functionality for donation request
           },
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
